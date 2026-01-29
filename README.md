@@ -50,4 +50,4 @@ forbes-global-companies-analysis/
 - Business-oriented interpretation of insights
 
 ## Interactive Dashboard
-Tableau Public:[](https://public.tableau.com/app/profile/suhail.salman/viz/forbes-2011-2023/Dashboard1?publish=yes)
+[Tableau Public:[](https://public.tableau.com/app/profile/suhail.salman/viz/forbes-2011-2023/Dashboard1?publish=yes)]
