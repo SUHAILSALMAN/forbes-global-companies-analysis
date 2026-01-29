@@ -9,10 +9,14 @@ forbes-global-companies-analysis/
 
 
 ├── notebooks/
+
+
 │   └── forbes_global_2000_eda.ipynb
 
 
 ├── data/
+
+
 │   └── forbes.csv
 
 
