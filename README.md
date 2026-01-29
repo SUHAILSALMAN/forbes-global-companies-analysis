@@ -6,11 +6,11 @@ This Project Analyzes the forbes Global 2000 companies dataset to uncover insigh
 ##structure
 
 forbes-global-companies-analysis/
-│
 ├── notebooks/
 │   └── forbes_global_2000_eda.ipynb
-│
+
 ├── data/
 │   └── forbes.csv
-│
+
+
 └── README.md
